@@ -25,8 +25,8 @@ Selamat datang ke profil GitHub saya! Saya sedang belajar pengaturcaraan dan pem
 ---
 
 ## 📫 Hubungi Saya
-- **LinkedIn**: [Profil LinkedIn Saya](https://linkedin.com/in/username-anda)
-- **Emel**: [clairie@example.com](mailto:clairie@example.com)
+- **LinkedIn**: [Profil LinkedIn Saya](https://linkedin.com/in/clairie-joyce)
+- **Emel**: [clairiejoycebelayau@graduate.utm.my](mailto:clairiejoycebelayau@graduate.utm.my)
 
 ---
 
